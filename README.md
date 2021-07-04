@@ -1,0 +1,1 @@
+Learning from javascript the weird parts
